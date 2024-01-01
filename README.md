@@ -13,12 +13,12 @@
 
 ### My Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmadnawawi&layout=compact&theme=tokyonight)](https://github.com/aliahmadnawawi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aianawawi&layout=compact&theme=tokyonight)](https://github.com/aianawawi/github-readme-stats)
 
-![orie's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliahmadnawawi&show_icons=true&theme=tokyonight)
+![orie's GitHub stats](https://github-readme-stats.vercel.app/api?username=aianawawi&show_icons=true&theme=tokyonight)
 
 <!--
-**aliahmadnawawi/aliahmadnawawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aianawawi/aianawawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
