@@ -53,12 +53,11 @@ My goal isn't just to learn, but to *understand*—I'm on a journey to master th
 
 ### My Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-one-alpha-69.vercel.app/api?username=aliahmadnawawi&show_icons=true&locale=en&theme=tokyonight&count_private=true" height="165" />
+<div align="left">
+  <img src="https://github-readme-stats-one-alpha-69.vercel.app/api?username=aliahmadnawawi&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Ali Ahmad Nawawi's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats-one-alpha-69.vercel.app/api/top-langs?username=aliahmadnawawi&layout=compact&locale=en&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliahmadnawawi&theme=tokyonight" height="165" />
-</p>
+  <img src="https://github-readme-stats-one-alpha-69.vercel.app/api/top-langs?username=aliahmadnawawi&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
+</div>
 
 <br/>
 
