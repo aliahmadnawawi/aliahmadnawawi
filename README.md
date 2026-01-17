@@ -53,9 +53,10 @@ My goal isn't just to learn, but to *understand*—I'm on a journey to master th
 
 ### My Github Stats
 
-![Top Langs](https://github-readme-stats-one-alpha-69.vercel.app/api/top-langs?username=aliahmadnawawi&layout=compact&locale=en&theme=tokyonight")
-
-![Stats GitHub](https://github-readme-stats-one-alpha-69.vercel.app/api?username=aliahmadnawawi&show_icons=true&locale=en&theme=tokyonight&count_private=true")
+<p align="left">
+  <img src="https://github-readme-stats-one-alpha-69.vercel.app/api/top-langs?username=aliahmadnawawi&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-one-alpha-69.vercel.app/api?username=aliahmadnawawi&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="GitHub Stats" height="150" />
+</p>
 
 <!--
 **aliahmadnawawi/aliahmadnawawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
