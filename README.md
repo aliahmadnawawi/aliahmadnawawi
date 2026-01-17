@@ -59,8 +59,6 @@ My goal isn't just to learn, but to *understand*—I'm on a journey to master th
   <img src="https://github-readme-stats-one-alpha-69.vercel.app/api/top-langs?username=aliahmadnawawi&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
 </div>
 
-<br/>
-
 <!--
 **aliahmadnawawi/aliahmadnawawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
